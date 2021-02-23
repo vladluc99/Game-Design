@@ -1,6 +1,6 @@
 # Game-Design
 Proiectul de la Game Design
-Echipa alcatuita din:
-Iacob Stefan
-Luchian Vlad
-Raileanu Andrei
+Echipa alcatuita din: <br>
+Iacob Stefan <br>
+Luchian Vlad <br>
+Raileanu Andrei <br>
