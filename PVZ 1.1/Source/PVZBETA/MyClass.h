@@ -4,3 +4,12 @@
 
 #include "CoreMinimal.h"
 
+/**
+ * 
+ */
+class PVZBETA_API MyClass
+{
+public:
+	MyClass();
+	~MyClass();
+};
